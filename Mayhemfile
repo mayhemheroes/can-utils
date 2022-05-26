@@ -1,0 +1,5 @@
+project: rnshah9/can-utils
+target: asc2log
+
+cmds:
+  - cmd: /repo/build/asc2log -I @@
