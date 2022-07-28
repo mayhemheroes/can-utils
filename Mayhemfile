@@ -2,4 +2,4 @@ project: can-utils
 target: asc2log
 
 cmds:
-  - cmd: /repo/build/asc2log -I @@
+  - cmd: /install/bin/asc2log -I @@
