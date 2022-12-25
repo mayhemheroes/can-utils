@@ -59,7 +59,8 @@ jobs:
       fail-fast: false
       matrix:
         mayhemfile:
-          - mayhem/Mayhemfile
+          - mayhem/Mayhemfile_parse_canframe
+          - mayhem/Mayhemfile_asc2log
 
     steps:
       - uses: actions/checkout@v3
