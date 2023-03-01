@@ -1,5 +1,0 @@
-project: can-utils
-target: asc2log
-
-cmds:
-  - cmd: /install/bin/asc2log -I @@
