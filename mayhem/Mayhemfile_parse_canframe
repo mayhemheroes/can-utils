@@ -1,0 +1,6 @@
+project: can-utils
+target: parse-canframe
+
+cmds:
+  - cmd: /fuzz_parse_canframe
+    libfuzzer: true
